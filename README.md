@@ -11,7 +11,7 @@ https://tigersecjaws.connpass.com/event/196448/
 
 ## 関連資料一覧
 
-* 座学編スライド 
+* 座学編スライド  
 https://speakerdeck.com/cmusudakeisuke/toaruzhen-duan-yuan-tosecurity-jaws-number-02zuo-xue-zi-liao
 
 * 解説編スライド  
